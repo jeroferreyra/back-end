@@ -13,6 +13,7 @@ com\portfolio\jeronimo\Security\Repository\iUsuarioRepository.class
 com\portfolio\jeronimo\Dto\DtoExperiencia.class
 com\portfolio\jeronimo\Security\jwt\JwtTokenFilter.class
 com\portfolio\jeronimo\Security\Entity\UsuarioPrincipal.class
+com\portfolio\jeronimo\Entity\hys.class
 com\portfolio\jeronimo\Security\Service\UsuarioService.class
 com\portfolio\jeronimo\Security\Entity\Usuario.class
 com\portfolio\jeronimo\Service\ImpPersonaService.class
@@ -21,14 +22,18 @@ com\portfolio\jeronimo\Controller\CExperiencia.class
 com\portfolio\jeronimo\Interface\IPersonaService.class
 com\portfolio\jeronimo\Security\Dto\NuevoUsuario.class
 com\portfolio\jeronimo\Entity\Persona.class
+com\portfolio\jeronimo\Controller\CHys.class
+com\portfolio\jeronimo\Dto\DtoHys.class
 com\portfolio\jeronimo\Security\jwt\JwtEntryPoint.class
 com\portfolio\jeronimo\Security\Controller\AuthController.class
 com\portfolio\jeronimo\Security\Service\UserDetailsImpl.class
 com\portfolio\jeronimo\Service\SEducacion.class
 com\portfolio\jeronimo\Repository\RExperiencia.class
+com\portfolio\jeronimo\Service\Shys.class
 com\portfolio\jeronimo\Security\Dto\LoginUsuario.class
 com\portfolio\jeronimo\Security\Service\RolService.class
 com\portfolio\jeronimo\Repository\IPersonaRepository.class
 com\portfolio\jeronimo\Security\Dto\JwtDto.class
 com\portfolio\jeronimo\Repository\REducacion.class
+com\portfolio\jeronimo\Repository\Rhys.class
 com\portfolio\jeronimo\Security\Entity\Rol.class

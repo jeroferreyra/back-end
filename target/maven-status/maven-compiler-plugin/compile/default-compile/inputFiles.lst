@@ -3,14 +3,18 @@ C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Entity\Experiencia.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\Dto\JwtDto.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\Service\UsuarioService.java
+C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Dto\DtoHys.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\Controller\Mensaje.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\JeronimoApplication.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Repository\REducacion.java
+C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Repository\Rhys.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\Repository\iUsuarioRepository.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Service\SExperiencia.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\Controller\AuthController.java
+C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Entity\hys.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\Entity\UsuarioPrincipal.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\jwt\JwtTokenFilter.java
+C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Controller\CHys.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Interface\IPersonaService.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\Dto\NuevoUsuario.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\Entity\Usuario.java
@@ -30,5 +34,6 @@ C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\MainSecurity.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\Service\RolService.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\jwt\JwtProvider.java
+C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Service\Shys.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Service\ImpPersonaService.java
 C:\Users\XxFer\OneDrive\Escritorio\ARGENTINA PROGRAMA\frontend\Back End\src\main\java\com\portfolio\jeronimo\Security\Dto\LoginUsuario.java
