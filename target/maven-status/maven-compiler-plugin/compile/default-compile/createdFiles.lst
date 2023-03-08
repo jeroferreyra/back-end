@@ -19,7 +19,7 @@ com\portfolio\jeronimo\Security\Entity\Usuario.class
 com\portfolio\jeronimo\Service\ImpPersonaService.class
 com\portfolio\jeronimo\Service\SExperiencia.class
 com\portfolio\jeronimo\Controller\CExperiencia.class
-com\portfolio\jeronimo\Interface\IPersonaService.class
+com\portfolio\jeronimo\Dto\DtoPersona.class
 com\portfolio\jeronimo\Security\Dto\NuevoUsuario.class
 com\portfolio\jeronimo\Entity\Persona.class
 com\portfolio\jeronimo\Controller\CHys.class
